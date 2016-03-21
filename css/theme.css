@@ -1,0 +1,62 @@
+body{ padding: 0; }
+body, table td, select, button{ color: #211D1E; font: 14px Tahoma, Geneva, sans-serif; }
+a, .pager .next a, .pager .previous a{ color: #6d6e71; }
+a:hover, .pager .next a:hover, .pager .previous a:hover, #main .archttl h3 a:hover, #main .wrap .archttl p a:hover{ color: #303030; }
+a img, .wrap_trivia img, #extras .box, .button-wrapper input, .wrap-options li .button{ border: 0 none; }
+.take-over{ height: 0; margin: 0 auto; overflow: visible; position: relative; width: 1010px; z-index: 51; }
+#section-header{ height: 33px; width: 980px; }
+.wrap_channel_navigation{ height: auto; margin: 0 auto; }
+.wrap_channel_navigation li{ margin: 0; background: url(../img/nav-separate.jpg) left center no-repeat; margin-right: -2px; }
+.wrap_channel_navigation ul li a, .wrap_channel_navigation ul li strong{ font: 25px/13px MyTestMedium; padding: 6px 12px; margin: 8px 0; }
+.wrap_channel_navigation li.first-child{ margin-right: 8px; }
+.wrap_channel_navigation li.last-child{ background: none; }
+.stage{ margin: auto; }
+#wrapper-3-inner{ background: #ffffff; width: 981px; padding: 0px; }
+#main{ width: 642px; padding-bottom: 0; }
+.tabs{ padding: 0 !important; margin: 0 0 15px; background: #ececed; }
+.tabs li{ background: url(../img/tabs-separate.jpg) left center no-repeat; margin: 0 -2px 0 0; }
+.tabs li:last-child{ background: none; }
+.tabs .tab a{ display: inline-block; padding: 4px 10px 10px; font: 24px/22px MyTestMedium; webkit-border-radius: 0px; moz-border-radius: 0px; border-radius: 0px; background: transparent; color: #3b3b3b; }
+.tabs li a:hover, .tabs .active a{ background: #777777; color: #ffffff; }
+.tabs li a:hover, .tabs .active a{ webkit-border-radius: 0px; moz-border-radius: 0px; border-radius: 0px; }
+.box .arena.tabactive{ width: 645px\9 !important; }
+#extras{ width: 323px; margin: 6px 0 0 15px; }
+#extras .agt-live-killer.killerbanner{ width: 300px; text-align: center; padding: 30px 0 9px; }
+#site-info{ padding-top: 20px; }
+#site-info h4, #copyright{ border: 0 none; padding-bottom: 15px; padding-right: 0; }
+#site-info h4 a{ font: 21px mytestmedium; }
+#site-info .info-form{ display: block; height: 6px; position: relative; top: -122px; width: 976px; }
+#site-info #site-info-inner .copyrights{ background: url("../img/mbc-logo-mid-brand.png") no-repeat scroll center 15px transparent !important; font: 14px mytestmedium; direction: ltr !important; padding-top: 50px; }
+#site-info div.links div{ margin: 0 0 10px 0px; width: 125px; }
+#site-info ul{ width: auto; margin: 0 0 0 10px; }
+#site-info .links{ margin-right: 20px; }
+#site-info .links:first-child{ margin-right: 50px; }
+#wrapper-2, #wrapper-3, .take-over{ webkit-user-select: none; moz-user-select: none; ms-user-select: none; o-user-select: none; user-select: none; }
+.mains .box.floatingtakeover{ font: 26px mytestmedium; padding: 20px 20px 0; }
+#site-info li{ list-style: disc inside none; }
+#site-info li a{ background: none; padding-right: 0px; font: 18px/18px mytestmedium; font-size: 17px\0/; display: inline-block; }
+.wrap_channel_navigation_inner > ul{ height: 50px; margin-right: 220px; width: 737px; }
+#section-header{width: 980px; position: relative; right: -7px; }
+#section #extras .agt-live-killer.killerbanner{ height: 285px; }
+#main .box, .community-wrapper .box, .wrap_flashapp{ margin: 15px; }
+#wrapper-3{ margin-top: 5px !important; }
+.mains .content-stream-rp .tabs,.box .head {display: none;}
+
+/** Styles Changes **/
+body {background-color: #fdeff2;}
+#wrapper {background: url(../img/wings.jpg?nocach=no) center center no-repeat transparent;}
+
+#site-info .info-form,#site-info #site-info-inner .copyrights{border-top: 1px solid  #efe4e6;}
+#site-info #site-info-inner .copyrights {color: #666463;}
+#site-info li {color: #666463;}
+#site-info li a {color: #666463;}
+#site-info a {color: #666463;}
+#site-info a:hover {color: #943e77;}
+
+.wrap_channel_navigation ul li a {color: #ffffff;}
+.wrap_channel_navigation li:hover a, .wrap_channel_navigation li strong {background-color: #c42124;color: #ffffff;}
+
+
+
+#section-header{height:10px;}
+div#page-header {height: 300px;}
