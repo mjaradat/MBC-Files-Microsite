@@ -42,7 +42,7 @@ a img, .wrap_trivia img, #extras .box, .button-wrapper input, .wrap-options li .
 #wrapper-3{ margin-top: 5px !important; }
 .mains .content-stream-rp .tabs,.box .head {display: none;}
 .stage {display: none;}
-#section #extras .agt-live-killer.killerbanner {padding: 10px 0 0;}
+#section #extras .agt-live-killer.killerbanner {padding: 14px 0 0;}
 /** Styles Changes **/
 body {background-color: #fdeff2;}
 #wrapper {background: url(../img/wings.jpg?nocach=no) center center no-repeat transparent;}
