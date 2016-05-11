@@ -20,7 +20,7 @@ a img, .wrap_trivia img, #extras .box, .button-wrapper input, .wrap-options li .
 .tabs li a:hover, .tabs .active a{ background: #777777; color: #ffffff; }
 .tabs li a:hover, .tabs .active a{ webkit-border-radius: 0px; moz-border-radius: 0px; border-radius: 0px; }
 .box .arena.tabactive{ width: 645px\9 !important; }
-#extras{ width: 323px; margin: 6px 0 0 15px; }
+#extras{ width: 300px; margin: 6px 0 0 15px; }
 #extras .agt-live-killer.killerbanner{ width: 300px; text-align: center; padding: 30px 0 9px; }
 #site-info{ padding-top: 20px; }
 #site-info h4, #copyright{ border: 0 none; padding-bottom: 15px; padding-right: 0; }
